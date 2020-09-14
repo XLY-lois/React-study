@@ -11,3 +11,10 @@
    `cd 项目名`
 - 启动
    `npm start`
+## 项目文件目录
+- public 
+   - favicon.ico ico 文件是图标，就是title显示地方左边那个小小的图表
+   - manifest.json 开发移动端的配置文件
+- src （源代码目录）v
+   - index.js 入口文件
+   - serviceWorker.js PWA 离线状态（？）
